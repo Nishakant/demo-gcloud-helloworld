@@ -1,4 +1,4 @@
-package com.demo.gcloud.helloworld.demogcloudhelloworld;
+package com.demo.gcloud.helloworld;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
